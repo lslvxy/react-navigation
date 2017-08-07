@@ -51,7 +51,7 @@
     "path-to-regexp": "^1.7.0",
     "prop-types": "^15.5.10",
     "react-native-drawer-layout-polyfill": "^1.3.2",
-    "react-native-tab-view": "https://github.com/lslvxy/react-native-tab-view.git"
+    "react-native-tab-view": "cribspot/react-native-tab-view#2017-07-19--tab-bar-crash--2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
