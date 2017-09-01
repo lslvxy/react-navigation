@@ -40,7 +40,7 @@ class HeaderBackButton extends React.PureComponent<DefaultProps, Props, State> {
     tintColor: Platform.select({
       ios: '#037aff',
     }),
-    truncatedTitle: 'Back',
+    truncatedTitle: null,
   };
 
   state = {};
